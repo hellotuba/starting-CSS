@@ -1,2 +1,2 @@
-# starting-CSS-
-Starting CSS with dark wersion 
+# Starting CSS
+## I use in my websites with dark mode a javascript for dark mode
